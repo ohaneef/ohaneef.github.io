@@ -1,5 +1,63 @@
+/* coffee stylesheet*/
 
 h2 {color:brown;} 
-body {background-color: gray;
-	  padding:100px;}
-h1,h2,h3,footer,p{text-align: center;padding-left: }
+
+.mainbody1{
+			float:left;
+			max-width:50%;
+			margin:0 auto;
+			}
+
+.mainbody2{
+			float:right;
+			max-width:50%;
+			margin:0 auto;
+			}
+
+.dreamtitle{
+	font-style:italic; color:ffd79f; font-family:corsiva,cursive;
+	padding-top: 0px;
+	border-bottom: 2px dashed #CEBB99 ;
+	width: 100px;
+	margin-left: 45%;
+	
+
+
+}
+
+.beanstitle {
+	text-transform: uppercase;
+	color: white;
+	line-height: 150%;
+
+}
+
+header{
+		background-image: url(images/coffeebeans.jpg);
+	}
+
+
+
+h1,h2,h3,footer,p {
+	text-align: center;
+	padding-left:10px; }
+
+nav {
+	background-color: #311701;
+	color:ffd79f;
+	word-spacing: 10px;
+	font-weight:normal;
+	}
+
+.clear {
+		clear:both;
+		}
+
+footer {
+		padding-top: 20px;
+		padding-bottom: 20px;
+		background-color: #311701; 
+		color:#ffd79f;
+		font-size: 12pt;
+
+		}

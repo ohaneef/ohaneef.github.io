@@ -1,0 +1,20 @@
+header {background-color: blue;
+height: 100px;
+width:100%;
+position:fixed;
+margin-top:0px;}
+
+.sidebar {background-color: red;
+		width: 10%;
+		height:900%;
+		position:fixed;
+		
+		}
+
+.clear {clear:both;}
+
+.random {margin-left: 20%;
+		margin-top: 40%;
+		color: black;
+		float:left;
+		font-size: 12px}

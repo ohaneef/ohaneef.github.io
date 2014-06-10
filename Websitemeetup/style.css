@@ -1,0 +1,25 @@
+.header{
+	width: 1207px;
+}
+
+body {
+	font-family: Verdana;
+	font-size: 18px;
+	color:black;
+}
+
+.red_dot{
+	float: right;
+}
+
+.menu_style {
+	font-family: verdana;
+	list-style:none;
+	font-size: 18px;
+}
+#menu-to-the-right li {
+	float:left;
+	margin-right: 50px;
+}
+
+#menu_down li {margin-bottom: 15 px;}
